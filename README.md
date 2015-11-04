@@ -1,2 +1,2 @@
-# Easy-Script-Loader
-A small script loader utility I use a lot.
+# Easy Loader
+A small script loader utility I use a lot... so, here it is.
